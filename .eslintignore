@@ -1,0 +1,7 @@
+node_modules/**
+private_modules/**
+tests/**
+es5_mode/**
+**/*.css
+**/*.html
+start.js
